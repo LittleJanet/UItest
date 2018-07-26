@@ -1,0 +1,16 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/api-test-lib/quickstart.git",
+  "author": "indexmotion <indexmotion@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "api-test-lib": "0.4.1",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --opts mocha.opts ./test/**/*.test.ts"
+  }
+}
