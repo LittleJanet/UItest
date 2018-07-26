@@ -10,9 +10,9 @@
   version "10.5.3"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.3.tgz#5bcfaf088ad17894232012877669634c06b20cc5"
 
-api-test-lib@0.4.1:
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/api-test-lib/-/api-test-lib-0.4.1.tgz#58436d54c11ac7bd939f9d5af5264344186b0931"
+api-test-lib@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/api-test-lib/-/api-test-lib-0.4.2.tgz#b89daad7af713730aff7aebff126febcea7bfc1c"
   dependencies:
     "@types/mocha" "^5.2.4"
     "@types/node" "^10.3.5"

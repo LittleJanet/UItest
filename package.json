@@ -6,7 +6,7 @@
   "author": "indexmotion <indexmotion@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "api-test-lib": "0.4.1",
+    "api-test-lib": "0.4.2",
     "ts-node": "^7.0.0",
     "typescript": "^2.9.2"
   },
